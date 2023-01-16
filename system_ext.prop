@@ -1,0 +1,6 @@
+persist.sys.usb.config=none
+persist.vendor.dpm.feature=11
+ro.product.marketname=POCO M3
+ro.product.system_ext.marketname=POCO M3
+ro.telephony.sim_slots.count=1
+telephony.active_modems.max_count=2
